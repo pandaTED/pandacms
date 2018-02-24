@@ -1,14 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6db14ef-b29d-423e-ad3d-fa5a36d6b122" name="Default" comment="整理项目结构">
+    <list default="true" id="c6db14ef-b29d-423e-ad3d-fa5a36d6b122" name="Default" comment="整理项目结构，修改readme.md">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/about.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/amazeui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/common.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/contact.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/example.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/index.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/join.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/news.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/other.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/product.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/solution.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/001.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/002.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/003.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/004.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/005.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/006.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/007.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/008.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/ben.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/f01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/f02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/f03.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/f04.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/slh_pic_active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/tz_pic_active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/wy_pic_active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/example/example1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/example/logo_hx_active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/footer.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_Microsoft.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_Microsoft_active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_gmw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_gmw_active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_gov.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_gov_active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_hx.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_hx_active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_jl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_jl_active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_qhdx.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_qhdx_active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/f01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/f02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/f03.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/f04.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/promo_banner_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/promo_detailed_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/slide_simple_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/login-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/logo2_03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/news/av01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/news/av02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/news/b01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/news/post01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/news/post02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/pattern-dark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/pattern-light.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/arrow-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/arrow-right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product1-banner.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2-phone.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_icon_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_icon_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_icon_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_icon_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product3/product3_img_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product3/product3_img_2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product3/product3_img_3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product3/product3_img_4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/o2o-img-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/o2o-img-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/o2o-img-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-banner.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/youhaomiao_logo_.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/js/amazeui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/js/common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/js/jquery-2.1.0.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/about.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/common.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/contact.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/example.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/index.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/join.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/news.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/other.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/product.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/solution.less" />
       <change beforePath="$PROJECT_DIR$/../pandacms/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../pandacms/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../pandacms/README.MD" afterPath="$PROJECT_DIR$/../pandacms/README.MD" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/admin/src/main/resources/templates/index.ftl" afterPath="$PROJECT_DIR$/../pandacms/admin/src/main/resources/templates/index.ftl" />
       <change beforePath="$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl" />
-      <change beforePath="$PROJECT_DIR$/../pandacms/pandacms.iml" afterPath="$PROJECT_DIR$/../pandacms/pandacms.iml" />
-      <change beforePath="$PROJECT_DIR$/../pandacms/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../pandacms/src/main/java/cn/panda/App.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../pandacms/src/test/java/cn/panda/AppTest.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,54 +154,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pandacms/front/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="708">
-              <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="logback-spring.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/logback-spring.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
+            <state relative-caret-position="866">
               <caret line="152" column="36" lean-forward="false" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pandacms/common/pom.xml">
+      <file leaf-file-name="index.ftl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-304">
-              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="390">
+              <caret line="41" column="36" lean-forward="true" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.MD" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../pandacms/README.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pandacms/.gitignore">
+      <file leaf-file-name="common.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/common.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="726">
+              <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -90,31 +197,8 @@
       <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FrontApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/FrontApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="290">
+              <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -137,8 +221,18 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/static</find>
+      <find>7c6aa6</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>00A82E</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pandacms" />
@@ -149,7 +243,7 @@
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/..///web-chatroom-stomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/..////web-chatroom-stomp" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -168,9 +262,13 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.MD" />
-        <option value="$PROJECT_DIR$/../pandacms/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/front/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/../pandacms/admin/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/common.html" />
+        <option value="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/common.min.css" />
         <option value="$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl" />
-        <option value="$PROJECT_DIR$/../pandacms/README.MD" />
       </list>
     </option>
   </component>
@@ -190,7 +288,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\apache-maven-3.3.9\lcoalrepo" />
-        <option name="mavenHome" value="$PROJECT_DIR$/..///apache-maven-3.3.9" />
+        <option name="mavenHome" value="$PROJECT_DIR$/..////apache-maven-3.3.9" />
         <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -240,6 +338,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -324,9 +424,7 @@
               <item name="front" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
@@ -335,6 +433,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
@@ -373,8 +492,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -392,9 +509,13 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pandacms\front\src\main\resources\static\assets\images" />
+      <recent name="D:\pandacms\front\src\main\resources\templates" />
+      <recent name="D:\pandacms\front\src\main\resources\static\assets" />
       <recent name="D:\pandacms\front\src\main\resources" />
     </key>
   </component>
@@ -536,7 +657,8 @@
       <updated>1519098514458</updated>
       <workItem from="1519098518071" duration="4107000" />
       <workItem from="1519117546742" duration="34000" />
-      <workItem from="1519378195068" duration="1829000" />
+      <workItem from="1519378195068" duration="1863000" />
+      <workItem from="1519436185052" duration="2445000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1519102630742</created>
@@ -545,11 +667,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519102630742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="整理项目结构，修改readme.md">
+      <created>1519386974012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519386974012</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5970000" />
+    <option name="totallyTimeSpent" value="8449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="112" y="-8" width="1816" height="1096" extended-state="6" />
@@ -580,6 +709,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25344038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -587,7 +717,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,13 +727,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
+    <MESSAGE value="整理项目结构，修改readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="整理项目结构，修改readme.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2002">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1716">
@@ -631,14 +788,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/pom.xml" />
     <entry file="file://$PROJECT_DIR$/../pandacms/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -668,8 +818,8 @@
         <state relative-caret-position="110">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="false" />
+            <element signature="e#300#301#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -719,14 +869,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/pom.xml" />
     <entry file="file://$PROJECT_DIR$/../pandacms/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -756,8 +899,8 @@
         <state relative-caret-position="110">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="false" />
+            <element signature="e#300#301#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -837,42 +980,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/common/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../pandacms/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/FrontApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="110">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#242#243#0" expanded="false" />
+            <element signature="e#300#301#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/../pandacms/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        <state relative-caret-position="2002">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/admin/src/main/resources/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/common.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-dev.yml">
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/amazeui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -887,39 +1061,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
+        <state relative-caret-position="866">
           <caret line="152" column="36" lean-forward="false" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/FrontApplication.java">
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl">
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="290">
+          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/html/404-dark.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4766">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/common.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/html/join.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="429" column="67" lean-forward="false" selection-start-line="429" selection-start-column="56" selection-end-line="429" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="41" column="36" lean-forward="true" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
