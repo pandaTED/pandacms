@@ -1,144 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6db14ef-b29d-423e-ad3d-fa5a36d6b122" name="Default" comment="整理项目结构，修改readme.md">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/about.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/amazeui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/common.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/contact.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/example.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/index.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/join.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/news.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/other.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/product.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/solution.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/001.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/002.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/003.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/004.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/005.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/006.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/008.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/ben.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/f01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/f02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/f03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/f04.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/slh_pic_active.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/tz_pic_active.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/about/wy_pic_active.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/example/example1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/example/logo_hx_active.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/footer.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_Microsoft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_Microsoft_active.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_gmw.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_gmw_active.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_gov.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_gov_active.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_hx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_hx_active.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_jl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_jl_active.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_qhdx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/customer_logo_qhdx_active.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/f01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/f02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/f03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/f04.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/promo_banner_bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/promo_detailed_bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/index/slide_simple_bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/login-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/logo2_03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/news/av01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/news/av02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/news/b01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/news/post01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/news/post02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/pattern-dark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/pattern-light.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/arrow-left.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/arrow-right.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product1-banner.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2-phone.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_icon_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_icon_2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_icon_3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_icon_4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product2/product2_service_icon9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product3/product3_img_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product3/product3_img_2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product3/product3_img_3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product3/product3_img_4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/product/product_show9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/cooperation-logo9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/o2o-img-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/o2o-img-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/o2o-img-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-banner.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/solution/solution-show-6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/youhaomiao_logo_.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/js/amazeui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/js/common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/js/jquery-2.1.0.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/about.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/common.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/contact.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/example.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/index.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/join.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/news.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/other.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/product.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/less/solution.less" />
-      <change beforePath="$PROJECT_DIR$/../pandacms/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../pandacms/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../pandacms/admin/src/main/resources/templates/index.ftl" afterPath="$PROJECT_DIR$/../pandacms/admin/src/main/resources/templates/index.ftl" />
-      <change beforePath="$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl" afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl" />
+    <list default="true" id="c6db14ef-b29d-423e-ad3d-fa5a36d6b122" name="Default" comment="加入前台模板">
+      <change afterPath="$PROJECT_DIR$/../pandacms/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandacms/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandacms/admin/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandacms/common/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandacms/common/src/main/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandacms/common/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandacms/front/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../pandacms/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pandacms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/../pandacms/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/admin/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pandacms/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/common/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../pandacms/common/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/common/src/test/java/cn/panda/common/CommonApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pandacms/common/src/test/java/cn/panda/common/CommonApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pandacms/front/src/main/resources/logback-spring.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -154,62 +34,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="logback-spring.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/logback-spring.xml">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../pandacms/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="866">
-              <caret line="152" column="36" lean-forward="false" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
-              <folding />
+            <state relative-caret-position="308">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ftl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl">
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="41" column="36" lean-forward="true" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-              <folding />
+            <state relative-caret-position="308">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/common.min.css">
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pandacms/admin/src/main/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="308">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application.yml">
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="308">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-dev.yml">
+      <file leaf-file-name="CommonApplicationTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pandacms/common/src/test/java/cn/panda/common/CommonApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application-prod.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-prod.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="440">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -238,12 +103,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pandacms" />
   </component>
   <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/..////web-chatroom-stomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/..////////web-chatroom-stomp" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -265,10 +127,21 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/front/src/main/resources/templates/index.ftl" />
         <option value="$PROJECT_DIR$/README.MD" />
-        <option value="$PROJECT_DIR$/../pandacms/admin/src/main/resources/templates/index.ftl" />
-        <option value="$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/common.html" />
-        <option value="$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/common.min.css" />
-        <option value="$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/admin/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/front/src/main/resources/templates/common.html" />
+        <option value="$PROJECT_DIR$/front/src/main/resources/static/assets/css/common.min.css" />
+        <option value="$PROJECT_DIR$/front/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/../pandacms/README.MD" />
+        <option value="$PROJECT_DIR$/../pandacms/common/pom.xml" />
+        <option value="$PROJECT_DIR$/../pandacms/common/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../pandacms/common/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/entity/User.java" />
+        <option value="$PROJECT_DIR$/../pandacms/common/src/test/java/cn/panda/common/CommonApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../pandacms/common/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/../pandacms/front/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/../pandacms/admin/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/../pandacms/.gitignore" />
       </list>
     </option>
   </component>
@@ -288,7 +161,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\apache-maven-3.3.9\lcoalrepo" />
-        <option name="mavenHome" value="$PROJECT_DIR$/..////apache-maven-3.3.9" />
+        <option name="mavenHome" value="$PROJECT_DIR$/..////////apache-maven-3.3.9" />
         <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -324,22 +197,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -372,7 +234,16 @@
               <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
@@ -381,42 +252,74 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
               <item name="pandacms" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
               <item name="pandacms" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
               <item name="pandacms" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
               <item name="pandacms" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
               <item name="front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
@@ -425,44 +328,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pandacms" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pandacms" type="b2602c69:ProjectViewProjectNode" />
@@ -492,31 +357,32 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="sshConsole" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pandacms\admin\src\main\resources" />
+      <recent name="D:\pandacms\front\src\main\resources" />
+      <recent name="D:\pandacms\common\src\main\resources" />
       <recent name="D:\pandacms\front\src\main\resources\static\assets\images" />
       <recent name="D:\pandacms\front\src\main\resources\templates" />
-      <recent name="D:\pandacms\front\src\main\resources\static\assets" />
-      <recent name="D:\pandacms\front\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -537,30 +403,37 @@
     </option>
     <option name="contentProportion" value="0.19707602" />
   </component>
-  <component name="RunManager" selected="Spring Boot.FrontApplication">
+  <component name="RunManager" selected="JUnit.CommonApplicationTests.contextLoads">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CommonApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.panda.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
+      <option name="PACKAGE_NAME" value="cn.panda.common" />
+      <option name="MAIN_CLASS_NAME" value="cn.panda.common.CommonApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -570,42 +443,25 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.panda.admin.AdminApplication" />
       <module name="admin" />
-      <envs />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.panda.admin.AdminApplication" />
     </configuration>
     <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.panda.common.CommonApplication" />
       <module name="common" />
-      <envs />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.panda.common.CommonApplication" />
     </configuration>
     <configuration name="FrontApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.panda.front.FrontApplication" />
       <module name="front" />
-      <envs />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.panda.front.FrontApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -618,17 +474,21 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -636,14 +496,17 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.CommonApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.FrontApplication" />
-      <item index="2" class="java.lang.String" itemvalue="Spring Boot.AdminApplication" />
+    <list>
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Spring Boot.FrontApplication" />
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="JUnit.CommonApplicationTests.contextLoads" />
     </list>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CommonApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Panda\AppData\Roaming\Subversion</configuration>
@@ -658,7 +521,11 @@
       <workItem from="1519098518071" duration="4107000" />
       <workItem from="1519117546742" duration="34000" />
       <workItem from="1519378195068" duration="1863000" />
-      <workItem from="1519436185052" duration="2445000" />
+      <workItem from="1519436185052" duration="2633000" />
+      <workItem from="1519607952020" duration="870000" />
+      <workItem from="1522573691256" duration="1911000" />
+      <workItem from="1522626070688" duration="26000" />
+      <workItem from="1522664030943" duration="1307000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1519102630742</created>
@@ -674,49 +541,70 @@
       <option name="project" value="LOCAL" />
       <updated>1519386974012</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="加入前台模板">
+      <created>1519438771714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1519438771714</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CommonApplicationTests_contextLoads - 2018.04.02 at 18h 28m 03s.xml">
+      <configuration name="CommonApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonApplicationTests_contextLoads - 2018.04.02 at 18h 31m 59s.xml">
+      <configuration name="CommonApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8449000" />
+    <option name="totallyTimeSpent" value="12751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="112" y="-8" width="1816" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.69075453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="MyBatis Sql Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25344038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Statistic" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.50106156" side_tool="true" weight="0.2517202" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32943678" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" weight="0.69075453" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.99681526" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.2517202" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -728,35 +616,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add readme" />
     <MESSAGE value="整理项目结构，修改readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="整理项目结构，修改readme.md" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <MESSAGE value="加入前台模板" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入前台模板" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-prod.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2002">
-          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="198">
-            <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-            <folding />
+            <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
@@ -765,70 +633,43 @@
     <entry file="file://$PROJECT_DIR$/../pandacms/front/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1716">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding />
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/controller/Index.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3344">
-          <caret line="152" column="36" lean-forward="false" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
-          <folding />
+          <caret line="152" column="36" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/../pandacms/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
-          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding />
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/FrontApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#242#243#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-prod.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -836,8 +677,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="154">
-            <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            <folding />
+            <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
@@ -846,70 +686,43 @@
     <entry file="file://$PROJECT_DIR$/../pandacms/front/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1716">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding />
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/controller/Index.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3344">
-          <caret line="152" column="36" lean-forward="false" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
-          <folding />
+          <caret line="152" column="36" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/../pandacms/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
-          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding />
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/FrontApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#242#243#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-prod.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -917,206 +730,204 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="154">
-            <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            <folding />
+            <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/entity.java" />
-    <entry file="file://$PROJECT_DIR$/../pandacms/admin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="69" column="21" lean-forward="false" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/controller.java" />
-    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="58" lean-forward="false" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/admin/common/header.ftl" />
     <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Protocol.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
-          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/controller/Index.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/common.html" />
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/html/404-dark.html" />
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/common.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/html/join.html" />
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/controller/Index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/java/cn/panda/front/FrontApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#242#243#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-          </folding>
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2002">
-          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/admin/src/main/resources/templates/index.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/common.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/amazeui.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-prod.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="866">
-          <caret line="152" column="36" lean-forward="false" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="572">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/application-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/html/404-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4766">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/css/common.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/static/assets/images/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/html/join.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="429" column="67" lean-forward="false" selection-start-line="429" selection-start-column="56" selection-end-line="429" selection-end-column="67" />
-          <folding />
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/templates/index.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="41" column="36" lean-forward="true" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="572">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/admin/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/CommonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="155" column="16" selection-start-line="155" selection-end-line="155" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2002">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/filePath_IS_UNDEFINED">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2178" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.10.RELEASE/spring-boot-1.5.10.RELEASE.jar!/org/springframework/boot/logging/logback/LogbackLoggingSystem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/java/cn/panda/common/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/front/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/test/java/cn/panda/common/CommonApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/common/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/admin/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pandacms/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

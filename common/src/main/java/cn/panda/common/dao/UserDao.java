@@ -9,4 +9,5 @@ import org.springframework.data.jpa.repository.JpaRepository;
  * 2018/2/20
  */
 public interface UserDao extends JpaRepository<User,Long>{
+
 }
